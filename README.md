@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tayzaroome
-- 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...HTML, CSS, and Javascript
+- 👀 I’m interested in ...business analytics
+- 🌱 I’m currently learning ...Excel VBA, and Power BI.
 - 💞️ I’m looking to collaborate on ...someone who will teach me
 - 📫 How to reach me ... tayzaroome@gmail.com
 
